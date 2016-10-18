@@ -1,0 +1,38 @@
+html,body{
+    margin:0;
+    height:100%;
+    overflow:scroll;
+    /* background: url(http://wallpaper.zone/img/2576634.jpg); */
+}
+
+body{
+	
+   	font-family: Monospace;
+}
+
+.table {
+	font-weight:bold;
+}
+img {
+	display: block;
+	max-width: 200px;
+	max-height: 250px;
+	width: auto;
+	height: 100%;
+}
+
+.table tr td:first-child{
+	color:orange strong;
+}
+
+.table {
+	border: 1; text-align: center;
+	
+}
+
+.detail .modal-content {
+	width: 350px;
+}
+.modal-content{
+	width: 500px;
+}
